@@ -1,0 +1,18 @@
+
+you have following commands available (Commands are case sensitive)
+	- help 
+	- fibonacci [number]
+	- sort [space seperated array numbers]
+	- random [num1] [num2]
+	- Show History
+	- exit   
+
+If you enter wrong command then server will reply "please enter valid input"
+
+To run client you have to enter 
+
+	"./client [ipadress/hostname](of server)"
+
+If you are running all on single m/c 
+
+	"./client [localhost/127.0.0.1]" 

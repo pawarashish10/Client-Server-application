@@ -1,0 +1,45 @@
+[2017-06-05 02:48:11]	sort 1 2 3 4 5 6 7 2 3 
+7 6 5 4 3 3 2 2 1 0 
+[2017-06-05 02:48:28]	random 1 99
+90
+[2017-06-05 02:48:35]	rand
+please enter valid input
+[2017-06-05 02:48:54]	fibonacci 200
+280571172992510140037611932413038677189525
+[2017-06-05 02:49:06]	fibonacci 100
+354224848179261915075
+[2017-06-05 02:49:25]	fibonacci 9
+34
+[2017-06-05 02:49:35]	help
+you have following commands available 
+	- help 
+	- fibonecci [number]
+	- sort [space seperated array numbers]
+	- random [num1] [num2]
+	- Show History
+	- exit
+[2017-06-05 02:49:52]	Show History
+[2017-06-05 02:48:11]	sort 1 2 3 4 5 6 7 2 3 
+7 6 5 4 3 3 2 2 1 0 
+[2017-06-05 02:48:28]	random 1 99
+90
+[2017-06-05 02:48:35]	rand
+please enter valid input
+[2017-06-05 02:48:54]	fibonacci 200
+280571172992510140037611932413038677189525
+[2017-06-05 02:49:06]	fibonacci 100
+354224848179261915075
+[2017-06-05 02:49:25]	fibonacci 9
+34
+[2017-06-05 02:49:35]	help
+you have following commands available 
+	- help 
+	- fibonecci [number]
+	- sort [space seperated array numbers]
+	- random [num1] [num2]
+	- Show History
+	- exit
+[2017-06-05 02:49:52]	Show History
+
+[2017-06-05 02:49:58]	exit
+exit
